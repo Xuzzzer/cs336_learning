@@ -1,0 +1,3 @@
+[submodule "diy-llm"]
+	path = diy-llm
+	url = git@github.com:datawhalechina/diy-llm.git
