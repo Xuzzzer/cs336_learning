@@ -11,7 +11,8 @@ wheels/
 
 # datasets
 TinyStories
-
+/data
 *.tar.gz
 
 .claude/*
+owt_train.txt.gz

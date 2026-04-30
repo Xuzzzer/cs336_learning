@@ -41,7 +41,7 @@ uv run pytest
 
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |---|---|---|---|---|
-| 4.26 lecture1 | 4.27 lecture2 | 4.29 BPE tokenizer | 日期：<br>内容： | 日期：<br>内容： |
+| 4.26 lecture1 | 4.27 lecture2 | 4.30 BPE tokenizer | 日期：<br>内容： | 日期：<br>内容： |
 
 ### Assignment 2: Systems
 
